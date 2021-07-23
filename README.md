@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Linhao99
+- 👋 Hi, I’m @LinEnning
 - 👀 I’m interested in Web front end
 - 🌱 I’m currently learning TS
 - 💞️ I’m looking to collaborate on ...
